@@ -1,0 +1,10 @@
+./sources/generermot/Controleur.java
+
+./sources/generermot/ihm/FrameDictionnaireMot.java
+./sources/generermot/ihm/PanelFond.java
+
+./sources/generermot/metier/GenererMot.java
+
+-d documentation
+-private
+-author

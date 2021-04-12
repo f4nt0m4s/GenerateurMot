@@ -1,0 +1,9 @@
+-encoding utf8
+
+./sources/generateurmot/Controleur.java
+
+./sources/generateurmot/ihm/FrameDictionnaireMot.java
+./sources/generateurmot/ihm/PanelFond.java
+
+./sources/generateurmot/metier/GenererMot.java
+
